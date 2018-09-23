@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=kruiser_palace
+POSTGRES_USER=qYgabNDiWAnLuWECgeaMwrEoIYqZCWFy
+POSTGRES_PASSWORD=pqvHOi1JxYCfg3jgaZw23QnB7dSTWuaH67D4bdDAsRALei86JWkq6QNQeZMt8sF8
